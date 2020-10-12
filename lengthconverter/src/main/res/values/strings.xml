@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Length Converter</string>
+    <string name="button">\"2\"</string>
+    <string name="num1">\"1\"</string>
+    <string name="input_value">Input Value</string>
+    <string name="result">Result</string>
+    <string name="enter">Enter</string>
+    <string name="To">To</string>
+    <string name="From">From</string>
+</resources>

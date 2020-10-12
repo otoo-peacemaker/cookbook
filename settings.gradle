@@ -1,0 +1,8 @@
+rootProject.name='AndroidComponentsModels'
+include ':feedback form'
+include ':circlemenu'
+include ':stringarrayhtml'
+include ':androidgraphs'
+include ':lengthconverter'
+include ':menudrawer'
+include ':webview'

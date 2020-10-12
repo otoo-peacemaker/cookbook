@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragBarChart"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BarChartFragment">
+
+    <com.github.mikephil.charting.charts.BarChart
+        android:id="@+id/bar_graph_id"
+        android:layout_width="match_parent"
+        android:layout_height="589dp">
+
+    </com.github.mikephil.charting.charts.BarChart>
+
+    <TextView
+        android:id="@+id/barTextView"
+        android:layout_width="match_parent"
+        android:layout_height="33dp"
+        android:background="@color/camel" />
+</FrameLayout>

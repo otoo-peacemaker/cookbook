@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">StringArrayHtml</string>
+    <string name="html_text">your html text file here</string>
+    <string name="htmlText">
+        "<![CDATA[
+              <p><span style="color: #6200ee;"><strong>Python Language</strong></span></p>
+              <p><b>Created: </b> Python language developed by Guido van Rossum.It was first released in 1991. <br>
+               </p>
+       <p>
+        <b>Pros: </b>
+        <ol><li>Supports multiple systems and platforms</li>
+            <li>Object-Oriented Programming driven</li>
+            <li>Helps to improve Programmer's Productivity</li>
+            <li>Allows you to scale even the most complex applications with ease</li>
+            <li>Extensive support Libraries</li>
+        </ol>
+       </p>
+
+       <p>
+        <b>Pros: </b>
+        <ol><li>Supports multiple systems and platforms</li>
+            <li>Object-Oriented Programming driven</li>
+            <li>Helps to improve Programmer's Productivity</li>
+            <li>Allows you to scale even the most complex applications with ease</li>
+            <li>Extensive support Libraries</li>
+        </ol>
+       </p>
+       <p>
+        <b>Pros: </b>
+        <ol><li>Supports multiple systems and platforms</li>
+            <li>Object-Oriented Programming driven</li>
+            <li>Helps to improve Programmer's Productivity</li>
+            <li>Allows you to scale even the most complex applications with ease</li>
+            <li>Extensive support Libraries</li>
+        </ol>
+       </p>
+        ]]>"
+    </string>
+
+    <string-array name="html">
+        <item>
+        "<![CDATA[
+              <p><span style="color: #ff0000;"><strong>The Love Pillar</strong></span></p>
+              <p>I Believe in love, the love of pure heart, sent..</p>
+
+        ]]>"
+        </item>
+    </string-array>
+
+
+</resources>
