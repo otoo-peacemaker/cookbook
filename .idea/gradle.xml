@@ -4,13 +4,14 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="testRunner" value="PLATFORM" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/androidgraphs" />
+            <option value="$PROJECT_DIR$/bottomnavigation" />
             <option value="$PROJECT_DIR$/circlemenu" />
             <option value="$PROJECT_DIR$/feedback form" />
             <option value="$PROJECT_DIR$/lengthconverter" />
