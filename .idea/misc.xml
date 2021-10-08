@@ -5,6 +5,8 @@
       <map>
         <entry key="androidgraphs/src/main/res/layout/fragment_pie_chart.xml" value="0.196875" />
         <entry key="bottomnavigation/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="recyclerview/src/main/res/layout/activity_main.xml" value="0.18229166666666666" />
+        <entry key="recyclerview/src/main/res/layout/items_list.xml" value="0.25" />
       </map>
     </option>
   </component>
