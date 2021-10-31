@@ -36,7 +36,7 @@
         <androidx.viewpager.widget.ViewPager
             android:id="@+id/viewPagerPopularMovies"
             android:layout_width="match_parent"
-            android:layout_height="210dp"
+            android:layout_height="160dp"
             android:clipToPadding="true"
             android:overScrollMode="never"
             android:background="@color/white"
@@ -54,7 +54,7 @@
         <androidx.viewpager.widget.ViewPager
             android:id="@+id/viewPagerTvShows"
             android:layout_width="match_parent"
-            android:layout_height="210dp"
+            android:layout_height="160dp"
             android:background="@android:color/darker_gray"
             android:clipToPadding="true"
             android:elevation="4dp"
@@ -71,7 +71,7 @@
         <androidx.viewpager.widget.ViewPager
             android:id="@+id/viewPagerContWatching"
             android:layout_width="match_parent"
-            android:layout_height="210dp"
+            android:layout_height="160dp"
             android:background="@color/white"
             android:clipToPadding="true"
             android:overScrollMode="never"
