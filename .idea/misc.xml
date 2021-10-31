@@ -4,6 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/USER/AndroidStudioProjects/AndroidComponentsModels/ratingbar/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AndroidComponentsModels/swipeview/src/main/res/layout-anydpi/activity_swip_view.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AndroidComponentsModels/swipeview/src/main/res/layout-ldpi/activity_swip_view.xml" value="1.058227848101266" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AndroidComponentsModels/swipeview/src/main/res/layout-mdpi/activity_swip_view.xml" value="1.0979166666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AndroidComponentsModels/swipeview/src/main/res/layout-xhdpi/activity_swip_view.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AndroidComponentsModels/swipeview/src/main/res/layout-xxhdpi/activity_swipe_view.xml" value="0.2" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AndroidComponentsModels/swipeview/src/main/res/layout-xxxhdpi/activity_swip_view.xml" value="0.2" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/AndroidComponentsModels/swipeview/src/main/res/layout/activity_swip_view.xml" value="0.264" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/AndroidComponentsModels/swipeview/src/main/res/layout/view_item.xml" value="0.4" />
         <entry key="androidgraphs/src/main/res/layout/fragment_pie_chart.xml" value="0.196875" />
