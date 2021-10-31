@@ -7,6 +7,7 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="11" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -16,8 +17,10 @@
             <option value="$PROJECT_DIR$/feedback form" />
             <option value="$PROJECT_DIR$/lengthconverter" />
             <option value="$PROJECT_DIR$/menudrawer" />
+            <option value="$PROJECT_DIR$/ratingbar" />
             <option value="$PROJECT_DIR$/recyclerview" />
             <option value="$PROJECT_DIR$/stringarrayhtml" />
+            <option value="$PROJECT_DIR$/swipeview" />
             <option value="$PROJECT_DIR$/webview" />
           </set>
         </option>
