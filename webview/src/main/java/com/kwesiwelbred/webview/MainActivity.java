@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
                 webView.getSettings().setLoadsImagesAutomatically(true);
                 webView.setScrollBarStyle(View.SCROLLBARS_INSIDE_OVERLAY);
 
+
                 webView.loadUrl(url);
             }
         });
