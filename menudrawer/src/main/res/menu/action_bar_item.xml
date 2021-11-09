@@ -3,26 +3,21 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
-        android:id="@+id/fav"
-        android:icon="@drawable/ic_baseline_favorite_24"
-        android:contentDescription="@string/favorite"
+        android:id="@+id/cart"
+        android:icon="@drawable/outline_shopping_cart_24"
+        android:contentDescription="@string/Cart"
         app:showAsAction="ifRoom"
-        android:title="@string/favorite" />
+        android:title="@string/Cart" />
     <item
-        android:id="@+id/settings"
-        android:icon="@drawable/ic_baseline_settings_24"
-        android:contentDescription="@string/favorite"
-        android:title="@string/settings" />
-    <item
-        android:id="@+id/log_out"
-        android:icon="@drawable/ic_baseline_exit_to_app_24"
-        android:contentDescription="@string/favorite"
-        android:title="@string/log_out" />
-    <item
-        android:id="@+id/search"
+        android:id="@+id/log_in"
+        android:contentDescription="@string/log_in"
         app:showAsAction="always"
-        android:icon="@drawable/ic_baseline_search_24"
-        android:contentDescription="@string/favorite"
-        android:title="@string/search" />
+        android:title="@string/log_in" />
+    <item
+        android:id="@+id/signUp"
+        app:showAsAction="always"
+        android:title="@string/sign_up"
+
+        android:contentDescription="@string/sign_up" />
 
 </menu>

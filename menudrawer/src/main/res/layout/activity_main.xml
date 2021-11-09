@@ -16,8 +16,7 @@
 
         <com.google.android.material.appbar.AppBarLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:backgroundTint="@color/black">
+            android:layout_height="wrap_content">
 
             <com.google.android.material.appbar.MaterialToolbar
                 android:id="@+id/topAppBar"
@@ -25,8 +24,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="?attr/actionBarSize"
                 app:menu="@menu/action_bar_item"
-                app:navigationIcon="@drawable/outline_menu_24"
-                app:title="@string/page_title" />
+                app:navigationIconTint="@color/black"
+                app:navigationIcon="@drawable/outline_menu_24"/>
 
         </com.google.android.material.appbar.AppBarLayout>
 

@@ -1,4 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/item1"
+            android:title="@string/Market"/>
+        <item
+            android:id="@+id/item2"
+            android:title="@string/Jobs" />
+        <item
+            android:id="@+id/item3"
+            android:title="@string/forums" />
+        <item
+            android:id="@+id/item4"
+            android:title="@string/members" />
+    </group>
+
+    <group
+        android:id="@+id/group2"
+        android:checkableBehavior="single"
+        >
+        <item
+            android:id="@+id/item5"
+            android:title="@string/quick_links">
+            <menu>
+                <item
+                    android:id="@+id/market_link_id"
+                    android:title="@string/Market"/>
+                <item
+                    android:id="@+id/job_link_id"
+                    android:title="@string/Jobs" />
+                <item
+                    android:id="@+id/forum_link_id"
+                    android:title="@string/forums" />
+                <item
+                    android:id="@+id/blog_link_id"
+                    android:title="@string/blog"/>
+                <item
+                    android:id="@+id/faqs_link_id"
+                    android:title="@string/faqs" />
+                <item
+                    android:id="@+id/privacy_policy_id"
+                    android:title="@string/forums" />
+                <item
+                    android:id="@+id/t_n_c_id"
+                    android:title="@string/Terms_Conditions" />
+            </menu>
+        </item>
+
+    </group>
+
+
 </menu>

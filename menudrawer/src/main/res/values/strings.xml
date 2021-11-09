@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">MenuDrawer</string>
+    <string name="header_title">Gh made</string>
+    <string name="sub_header_text">header text</string>
+    <string name="Market">Market</string>
+    <string name="main">main</string>
+    <string name="Jobs">Jobs</string>
+    <string name="forums">Forums</string>
+    <string name="members">Members</string>
+    <string name="blog">Blog</string>
+    <string name="faqs">FAQ\'s</string>
+    <string name="Terms_Conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="quick_links">Quick Links</string>
+    <string name="log_in">Login</string>
+    <string name="Cart">Cart</string>
+    <string name="sign_up">sign up</string>
 </resources>
