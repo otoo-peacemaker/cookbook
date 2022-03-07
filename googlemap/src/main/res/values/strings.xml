@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">GoogleMap</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="rating">Rating: %.2f</string>
+    <string name="expandable">expandable</string>
+    <string name="start_ride">Start Ride</string>
+    <string name="arrow_up">arrow_up</string>
+    <string name="your_loaction">Your location</string>
+    <string name="starting_point">Starting point</string>
+    <string name="close">Close Bottom Sheet</string>
+    <string name="open">Show Bottom sheet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="place_search">place search</string>
+    <string name="google_map_api">AIzaSyDoS-pCCHYyYdddlJ2xRw-rkI36U1nhJrs</string>
+</resources>
+
+
+    <!--
+    INTEGRATION PROCESS
+    1. TUTORIALS: https://developers.google.com/codelabs/maps-platform/maps-platform-101-android#1
+    2. https://developers.google.com/maps/get-started#enable-api-sdk
+    3. THE CREDENTIAL PAGE: https://console.cloud.google.com/google/maps-apis/credentials?project=methodical-mesh-339901
+    4. THE API KEY: AIzaSyDoS-pCCHYyYdddlJ2xRw-rkI36U1nhJrs
+    5. ADDING DEPENDENCIES
+
+    plugins {
+        // ...
+        id 'com.google.android.libraries.mapsplatform.secrets-gradle-plugin'
+    }
+        dependencies {
+       // Dependency to include Maps SDK for Android
+       implementation 'com.google.android.gms:play-services-maps:17.0.0'
+    }
+
+    buildscript {
+        dependencies {
+            // ...
+            classpath "com.google.android.libraries.mapsplatform.secrets-gradle-plugin:secrets-gradle-plugin:1.3.0"
+        }
+    }
+
+    //AT MANIFEST
+    <meta-data
+   android:name="com.google.android.geo.API_KEY"
+   android:value="${GOOGLE_MAPS_API_KEY}" />
+
+    -->

@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "158297710064",
+    "firebase_url": "https://fir-intro-76cf9.firebaseio.com",
+    "project_id": "fir-intro-76cf9",
+    "storage_bucket": "fir-intro-76cf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158297710064:android:ddb58370642731b7b1d135",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauths"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158297710064-56ek8cbmgor6977cg2olk5a51pjqskir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACrheOanUkFk3YJTuhBtmyBpklmOJvSU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158297710064-56ek8cbmgor6977cg2olk5a51pjqskir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158297710064:android:80db10ea4b016521b1d135",
+        "android_client_info": {
+          "package_name": "com.kwesiwelbred.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158297710064-56ek8cbmgor6977cg2olk5a51pjqskir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACrheOanUkFk3YJTuhBtmyBpklmOJvSU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158297710064-56ek8cbmgor6977cg2olk5a51pjqskir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

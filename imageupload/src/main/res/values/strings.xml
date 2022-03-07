@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageUpload</string>
+    <string name="capure_file">capture</string>
+    <string name="upload_file">Upload</string>
+    <string name="ghghg">ghghg</string>
+    <string name="save">save</string>
+</resources>

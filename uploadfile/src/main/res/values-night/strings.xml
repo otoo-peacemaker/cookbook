@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="upload_file">Upload File</string>
+    <string name="capure_file">Capture</string>
+    <string name="profile_image">profile_image</string>
+</resources>

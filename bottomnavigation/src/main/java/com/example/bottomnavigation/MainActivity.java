@@ -32,6 +32,21 @@ public class MainActivity extends AppCompatActivity {
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_activity_main);
         NavigationUI.setupActionBarWithNavController(this, navController, appBarConfiguration);
         NavigationUI.setupWithNavController(binding.navView, navController);
+
+    /*BottomNavigationView.OnNavigationItemSelectedListener { item ->
+    when(item.itemId) {
+        R.id.item1 -> {
+            // Respond to navigation item 1 click
+            true
+        }
+        R.id.item2 -> {
+            // Respond to navigation item 2 click
+            true
+        }
+        else -> false
+    }
+}*/
+
     }
 
 }

@@ -3,7 +3,28 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/androidgraphs/src/main/res/layout/activity_main.xml" value="0.2609375" />
+        <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/androidgraphs/src/main/res/layout/fragment_line_chart.xml" value="0.2609375" />
+        <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/androidgraphs/src/main/res/layout/fragment_pie_chart.xml" value="0.2609375" />
         <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/authfirebase/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2578125" />
+        <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/bottomnavigation/src/main/res/layout/activity_main.xml" value="0.3734375" />
+        <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/bottomnavigation/src/main/res/menu/bottom_nav_menu.xml" value="0.3734375" />
+        <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/firebaseauths/src/main/res/layout/activity_main.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/googlemap/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/googlemap/src/main/res/layout/activity_maps.xml" value="0.2609375" />
+        <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/googlemap/src/main/res/layout/activity_places_selection.xml" value="0.2609375" />
+        <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/googlemap/src/main/res/layout/bottom_sheet.xml" value="0.2" />
+        <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/googlemap/src/main/res/layout/fragment_start_ride.xml" value="0.3734375" />
+        <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/googlemap/src/main/res/layout/fragment_start_ride_details.xml" value="0.3734375" />
+        <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/googlemap/src/main/res/layout/marker_info_contents.xml" value="0.2609375" />
+        <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/googlemap/src/main/res/layout/ride_controller.xml" value="0.34814814814814815" />
+        <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/imagechooserlibrary/src/main/res/layout/activity_main.xml" value="0.1984375" />
+        <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/imageupload/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/mvvm/loginmvvmrotrofit/src/main/res/drawable/ic_sync.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/mvvm/loginmvvmrotrofit/src/main/res/layout/activity_main.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/mvvm/loginmvvmrotrofit/src/main/res/layout/activity_user_list.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/mvvm/loginmvvmrotrofit/src/main/res/layout/fragment_user_list_detail.xml" value="0.3546875" />
+        <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/mvvm/loginmvvmrotrofit/src/main/res/layout/login_fragment.xml" value="0.22760416666666666" />
         <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/mvvm/src/main/res/layout/activity_main.xml" value="0.22395833333333334" />
         <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/mvvm/src/main/res/layout/game_fragment.xml" value="0.22395833333333334" />
         <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/shoppingcart/src/main/res/drawable-hdpi/baseline_remove_circle_outline_24.xml" value="0.37083333333333335" />
@@ -16,6 +37,8 @@
         <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/swipeview/src/main/res/layout-anydpi/activity_swip_view.xml" value="0.19270833333333334" />
         <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/swipeview/src/main/res/layout/activity_swip_view.xml" value="0.24166666666666667" />
         <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/swipeview/src/main/res/layout/view_item.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/uploadfile/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/PeacemakerNanaKwesiO/AndroidStudioProjects/AndroidComponentsModels/uploadfile/src/main/res/xml/uploadfile.xml" value="0.2537037037037037" />
         <entry key="..\:/Users/PeacemakerNanaKwesiO/StudioProjects/AndroidComponentsModels/custom_action_bar/src/main/res/drawable/outline_help_24.xml" value="0.30885416666666665" />
         <entry key="..\:/Users/PeacemakerNanaKwesiO/StudioProjects/AndroidComponentsModels/custom_action_bar/src/main/res/drawable/outline_logout_20.xml" value="0.30885416666666665" />
         <entry key="..\:/Users/PeacemakerNanaKwesiO/StudioProjects/AndroidComponentsModels/custom_action_bar/src/main/res/drawable/outline_menu_24.xml" value="0.30885416666666665" />
