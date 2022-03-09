@@ -1,0 +1,26 @@
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/example/googlemap/DataBindingTriggerClass.java
+ com.example.googlemap.DataBindingTriggerClass
+com/example/googlemap/DataBinderMapperImpl.java
+ com.example.googlemap.DataBinderMapperImpl
+ com.example.googlemap.DataBinderMapperImpl$InnerBrLookup
+ com.example.googlemap.DataBinderMapperImpl$InnerLayoutIdLookup
+com/example/googlemap/BuildConfig.java
+ com.example.googlemap.BuildConfig
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/example/googlemap/BR.java
+ com.example.googlemap.BR
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/example/googlemap/databinding/FragmentStartRideBinding.java
+ com.example.googlemap.databinding.FragmentStartRideBinding
+com/example/googlemap/databinding/MarkerInfoContentsBinding.java
+ com.example.googlemap.databinding.MarkerInfoContentsBinding
+com/example/googlemap/databinding/ActivityMainBinding.java
+ com.example.googlemap.databinding.ActivityMainBinding
+com/example/googlemap/databinding/ActivityPlacesSelectionBinding.java
+ com.example.googlemap.databinding.ActivityPlacesSelectionBinding
+com/example/googlemap/databinding/FragmentStartRideDetailsBinding.java
+ com.example.googlemap.databinding.FragmentStartRideDetailsBinding

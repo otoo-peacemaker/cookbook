@@ -1,0 +1,2 @@
+com/example/spinner/BuildConfig.java
+ com.example.spinner.BuildConfig

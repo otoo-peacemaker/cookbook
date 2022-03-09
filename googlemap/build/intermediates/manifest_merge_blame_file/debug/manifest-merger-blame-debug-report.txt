@@ -1,0 +1,215 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.googlemap"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:7:5-81
+13-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Include required permissions for Google Maps API to run. -->
+14-->[com.google.android.libraries.places:places:2.5.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\6f60b30bf0db67c78fef5bc36663d97d\transformed\jetified-places-2.5.0\AndroidManifest.xml:10:5-76
+14-->[com.google.android.libraries.places:places:2.5.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\6f60b30bf0db67c78fef5bc36663d97d\transformed\jetified-places-2.5.0\AndroidManifest.xml:10:22-73
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\fb709f6fd935cb58a5483065dbd9303b\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:23:5-79
+15-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\fb709f6fd935cb58a5483065dbd9303b\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:23:22-76
+16
+17    <uses-feature
+17-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\fb709f6fd935cb58a5483065dbd9303b\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:26:5-28:35
+18        android:glEsVersion="0x00020000"
+18-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\fb709f6fd935cb58a5483065dbd9303b\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:27:9-41
+19        android:required="true" />
+19-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\fb709f6fd935cb58a5483065dbd9303b\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:28:9-32
+20
+21    <queries>
+21-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\fb709f6fd935cb58a5483065dbd9303b\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:30:5-34:15
+22
+23        <!-- Needs to be explicitly declared on Android R+ -->
+24        <package android:name="com.google.android.apps.maps" />
+24-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\fb709f6fd935cb58a5483065dbd9303b\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:33:9-64
+24-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\fb709f6fd935cb58a5483065dbd9303b\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:33:18-61
+25    </queries>
+26
+27    <application
+27-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:9:5-44:19
+28        android:allowBackup="true"
+28-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:10:9-35
+29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+29-->[androidx.core:core:1.7.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ec826536564b8e33f3e128139f28eda4\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+30        android:debuggable="true"
+31        android:extractNativeLibs="false"
+32        android:icon="@mipmap/ic_launcher"
+32-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:11:9-43
+33        android:label="@string/app_name"
+33-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:12:9-41
+34        android:roundIcon="@mipmap/ic_launcher_round"
+34-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:13:9-54
+35        android:supportsRtl="true"
+35-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:14:9-35
+36        android:testOnly="true"
+37        android:theme="@style/Theme.AndroidComponentsModels" >
+37-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:15:9-61
+38        <activity
+38-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:16:9-18:40
+39            android:name="com.example.googlemap.googleplaces.PlacesSelection"
+39-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:17:13-57
+40            android:exported="false" />
+40-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:18:13-37
+41        <!--
+42             TODO: Before you run your application, you need a Google Maps API key.
+43
+44             To get one, follow the directions here:
+45
+46                https://developers.google.com/maps/documentation/android-sdk/get-api-key
+47
+48             Once you have your API key (it starts with "AIza"), define a new property in your
+49             project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
+50             "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
+51        -->
+52        <meta-data
+52-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:30:9-32:71
+53            android:name="com.google.android.geo.API_KEY"
+53-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:31:13-58
+54            android:value="AIzaSyDoS-pCCHYyYdddlJ2xRw-rkI36U1nhJrs" />
+54-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:32:13-68
+55
+56        <activity
+56-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:34:9-43:20
+57            android:name="com.example.googlemap.MapsActivity"
+57-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:35:13-41
+58            android:exported="true"
+58-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:36:13-36
+59            android:label="@string/title_activity_maps" >
+59-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:37:13-56
+60            <intent-filter>
+60-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:38:13-42:29
+61                <action android:name="android.intent.action.MAIN" />
+61-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:39:17-69
+61-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:39:25-66
+62
+63                <category android:name="android.intent.category.LAUNCHER" />
+63-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:41:17-77
+63-->C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\googlemap\src\main\AndroidManifest.xml:41:27-74
+64            </intent-filter>
+65        </activity>
+66        <activity
+66-->[com.karumi:dexter:6.2.2] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\7ca46a28b69762cabd049b314da0d11c\transformed\jetified-dexter-6.2.2\AndroidManifest.xml:27:9-29:72
+67            android:name="com.karumi.dexter.DexterActivity"
+67-->[com.karumi:dexter:6.2.2] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\7ca46a28b69762cabd049b314da0d11c\transformed\jetified-dexter-6.2.2\AndroidManifest.xml:28:13-60
+68            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+68-->[com.karumi:dexter:6.2.2] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\7ca46a28b69762cabd049b314da0d11c\transformed\jetified-dexter-6.2.2\AndroidManifest.xml:29:13-69
+69        <activity
+69-->[com.google.android.libraries.places:places:2.5.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\6f60b30bf0db67c78fef5bc36663d97d\transformed\jetified-places-2.5.0\AndroidManifest.xml:14:9-20:20
+70            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+70-->[com.google.android.libraries.places:places:2.5.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\6f60b30bf0db67c78fef5bc36663d97d\transformed\jetified-places-2.5.0\AndroidManifest.xml:15:13-91
+71            android:exported="false"
+71-->[com.google.android.libraries.places:places:2.5.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\6f60b30bf0db67c78fef5bc36663d97d\transformed\jetified-places-2.5.0\AndroidManifest.xml:16:13-37
+72            android:label="@string/places_autocomplete_label"
+72-->[com.google.android.libraries.places:places:2.5.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\6f60b30bf0db67c78fef5bc36663d97d\transformed\jetified-places-2.5.0\AndroidManifest.xml:17:13-62
+73            android:theme="@style/PlacesAutocompleteOverlay"
+73-->[com.google.android.libraries.places:places:2.5.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\6f60b30bf0db67c78fef5bc36663d97d\transformed\jetified-places-2.5.0\AndroidManifest.xml:18:13-61
+74            android:windowSoftInputMode="adjustResize" >
+74-->[com.google.android.libraries.places:places:2.5.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\6f60b30bf0db67c78fef5bc36663d97d\transformed\jetified-places-2.5.0\AndroidManifest.xml:19:13-55
+75        </activity> <!-- Needs to be explicitly declared on P+ -->
+76        <uses-library
+76-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\fb709f6fd935cb58a5483065dbd9303b\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:39:9-41:40
+77            android:name="org.apache.http.legacy"
+77-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\fb709f6fd935cb58a5483065dbd9303b\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:40:13-50
+78            android:required="false" />
+78-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\fb709f6fd935cb58a5483065dbd9303b\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:41:13-37
+79
+80        <activity
+80-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\303915a1eb5f1986b39c989e94f9dbff\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+81            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+81-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\303915a1eb5f1986b39c989e94f9dbff\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+82            android:exported="false"
+82-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\303915a1eb5f1986b39c989e94f9dbff\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+83            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+83-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\303915a1eb5f1986b39c989e94f9dbff\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+84
+85        <meta-data
+85-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\7b78eaaf020407e823ad5e653c965e98\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+86            android:name="com.google.android.gms.version"
+86-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\7b78eaaf020407e823ad5e653c965e98\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+87            android:value="@integer/google_play_services_version" />
+87-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\7b78eaaf020407e823ad5e653c965e98\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+88
+89        <uses-library
+89-->[androidx.window:window:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\96d585798714e6a04e84623a0d543bf0\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+90            android:name="androidx.window.extensions"
+90-->[androidx.window:window:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\96d585798714e6a04e84623a0d543bf0\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+91            android:required="false" />
+91-->[androidx.window:window:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\96d585798714e6a04e84623a0d543bf0\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+92        <uses-library
+92-->[androidx.window:window:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\96d585798714e6a04e84623a0d543bf0\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+93            android:name="androidx.window.sidecar"
+93-->[androidx.window:window:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\96d585798714e6a04e84623a0d543bf0\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+94            android:required="false" />
+94-->[androidx.window:window:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\96d585798714e6a04e84623a0d543bf0\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+95
+96        <provider
+96-->[androidx.emoji2:emoji2:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1b5371dc0b94b2e295d9aa7771c66787\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+97            android:name="androidx.startup.InitializationProvider"
+97-->[androidx.emoji2:emoji2:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1b5371dc0b94b2e295d9aa7771c66787\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+98            android:authorities="com.example.googlemap.androidx-startup"
+98-->[androidx.emoji2:emoji2:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1b5371dc0b94b2e295d9aa7771c66787\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+99            android:exported="false" >
+99-->[androidx.emoji2:emoji2:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1b5371dc0b94b2e295d9aa7771c66787\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+100            <meta-data
+100-->[androidx.emoji2:emoji2:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1b5371dc0b94b2e295d9aa7771c66787\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+101                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+101-->[androidx.emoji2:emoji2:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1b5371dc0b94b2e295d9aa7771c66787\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+102                android:value="androidx.startup" />
+102-->[androidx.emoji2:emoji2:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1b5371dc0b94b2e295d9aa7771c66787\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+103            <meta-data
+103-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ed8d41144eb8176d89d0ae04f2e4c5ab\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+104                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+104-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ed8d41144eb8176d89d0ae04f2e4c5ab\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+105                android:value="androidx.startup" />
+105-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ed8d41144eb8176d89d0ae04f2e4c5ab\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+106        </provider>
+107
+108        <service
+108-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\6ee0c30fdb26ff589316aff4fa3a0965\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:29:9-35:19
+109            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+109-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\6ee0c30fdb26ff589316aff4fa3a0965\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:30:13-103
+110            android:exported="false" >
+110-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\6ee0c30fdb26ff589316aff4fa3a0965\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:31:13-37
+111            <meta-data
+111-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\6ee0c30fdb26ff589316aff4fa3a0965\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:32:13-34:39
+112                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+112-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\6ee0c30fdb26ff589316aff4fa3a0965\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:33:17-94
+113                android:value="cct" />
+113-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\6ee0c30fdb26ff589316aff4fa3a0965\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:34:17-36
+114        </service>
+115        <service
+115-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ae668c3a23717d211b21fe9de24ceba0\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:26:9-30:19
+116            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+116-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ae668c3a23717d211b21fe9de24ceba0\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:27:13-117
+117            android:exported="false"
+117-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ae668c3a23717d211b21fe9de24ceba0\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:28:13-37
+118            android:permission="android.permission.BIND_JOB_SERVICE" >
+118-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ae668c3a23717d211b21fe9de24ceba0\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:29:13-69
+119        </service>
+120
+121        <receiver
+121-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ae668c3a23717d211b21fe9de24ceba0\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:32:9-34:40
+122            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+122-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ae668c3a23717d211b21fe9de24ceba0\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:33:13-132
+123            android:exported="false" />
+123-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ae668c3a23717d211b21fe9de24ceba0\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:34:13-37
+124    </application>
+125
+126</manifest>

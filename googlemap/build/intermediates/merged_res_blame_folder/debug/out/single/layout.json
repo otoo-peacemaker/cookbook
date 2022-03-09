@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\PeacemakerNanaKwesiO\\AndroidStudioProjects\\AndroidComponentsModels\\googlemap\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_start_ride.xml",
+        "source": "C:\\Users\\PeacemakerNanaKwesiO\\AndroidStudioProjects\\AndroidComponentsModels\\googlemap\\src\\main\\res\\layout\\fragment_start_ride.xml"
+    },
+    {
+        "merged": "C:\\Users\\PeacemakerNanaKwesiO\\AndroidStudioProjects\\AndroidComponentsModels\\googlemap\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\PeacemakerNanaKwesiO\\AndroidStudioProjects\\AndroidComponentsModels\\googlemap\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PeacemakerNanaKwesiO\\AndroidStudioProjects\\AndroidComponentsModels\\googlemap\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_places_selection.xml",
+        "source": "C:\\Users\\PeacemakerNanaKwesiO\\AndroidStudioProjects\\AndroidComponentsModels\\googlemap\\src\\main\\res\\layout\\activity_places_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\PeacemakerNanaKwesiO\\AndroidStudioProjects\\AndroidComponentsModels\\googlemap\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_start_ride_details.xml",
+        "source": "C:\\Users\\PeacemakerNanaKwesiO\\AndroidStudioProjects\\AndroidComponentsModels\\googlemap\\src\\main\\res\\layout\\fragment_start_ride_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\PeacemakerNanaKwesiO\\AndroidStudioProjects\\AndroidComponentsModels\\googlemap\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\marker_info_contents.xml",
+        "source": "C:\\Users\\PeacemakerNanaKwesiO\\AndroidStudioProjects\\AndroidComponentsModels\\googlemap\\src\\main\\res\\layout\\marker_info_contents.xml"
+    },
+    {
+        "merged": "C:\\Users\\PeacemakerNanaKwesiO\\AndroidStudioProjects\\AndroidComponentsModels\\googlemap\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\bottom_sheet.xml",
+        "source": "C:\\Users\\PeacemakerNanaKwesiO\\AndroidStudioProjects\\AndroidComponentsModels\\googlemap\\src\\main\\res\\layout\\bottom_sheet.xml"
+    }
+]

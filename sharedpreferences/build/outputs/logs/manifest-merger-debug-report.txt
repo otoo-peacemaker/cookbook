@@ -1,0 +1,273 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.preference:preference-ktx:1.2.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\f7b6f1afd48921fa9f19871c97dbc1f1\transformed\jetified-preference-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference:1.2.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\768a05113a64938999f54dad5c708420\transformed\preference-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\61bf056adb85aa0e3354ef8873fef2cb\transformed\jetified-fragment-ktx-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.2] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ebda91551804225a0080173d972baa23\transformed\jetified-activity-ktx-1.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.8.0-alpha04] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\e89629629df66b3f55e61b006254d478\transformed\jetified-core-ktx-1.8.0-alpha04\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\8b9ff462c26e67a51360d4ffd74765f4\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\f58519830cb845ebba053424741c2ecc\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\9b85ea61567d5de1325f38e267302986\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\56750d60f6c64d2c2978f4650747535b\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\69f8672a8e01badb374e5a7562cd591a\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\96d585798714e6a04e84623a0d543bf0\transformed\jetified-window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\65ddc5086e3d31d79e465a360ef2d191\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\dc82065a3852d588222992413d21ea76\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ff52a70ae6d088e298bf906b1a907ceb\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ae2c4b857826b74c7e58d98950b5dcee\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\911a6988715a347f090d71623a2000c2\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\b67d769d2c78803b426b0e827db36722\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\dfb250c2203df58c5a49990114ab31f8\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\68e00617add7b01f32854a6bbcc11c28\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1b5371dc0b94b2e295d9aa7771c66787\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\319a2be89989bc023adb73d5397e91ce\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1dd186db76f98a93fde2cd5ccf794a42\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\76f8c78758dc98d63c6b1b0814b1ec7f\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ff71d38e5fd2435f3682770568440610\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\5f8e0b060a79342bf5ad7fd4f5d3128b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ac1ce85454f1a4593739681276bc6ffb\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\f5921a503d8784d002cace2b1cb4515d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\7b85509f0802d0178d844067e9929508\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\6c359c19691c7d471b0c55eefb84784b\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\5043dce28c3266eea49b3ef5b1a286bf\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\f693a7c0abee27520f034952a21d716d\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0-alpha04] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\0698555bed65af3c4f2d1f58795d2da1\transformed\core-1.8.0-alpha04\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\9a9254718605bcdab9e555655498d40e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\0d2644bcfea1555522f7a2bb8de931ea\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\5ff02bbfa74f8d2f6165c52bc55baa35\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\a5de479eaa13f294fba71160df4cb075\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\56769530a8f0a980e2876c8f9361471e\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\0a527dfdd15e29e68e436d3349fa15bf\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ed8d41144eb8176d89d0ae04f2e4c5ab\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\86b1c74fc51aff9a5bc5f1758db0a36e\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\946ffec2668bca807869bde76eb06afe\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1c7ec0be3328a12dbc8ba487f7d65f88\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\b31071d0b5664d1dee18b2053ed5db16\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\fdbbbff6c9419b3e1b6ac9f17a951e72\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\2fdaab3b2715e81004474f222ad1edc0\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\62bb3001090c6b8fb818cd7f4416b811\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\4c7f849b8ffac1fdb988488e7bd951a4\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\5afacc33fe2f617b870c4b5dabacacb6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\e3214ed6d9c50f8cd73d831f38b438ca\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\d73e23945711e8c5dd37359c3f6fe116\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\8b9ff462c26e67a51360d4ffd74765f4\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\8b9ff462c26e67a51360d4ffd74765f4\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\f58519830cb845ebba053424741c2ecc\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\f58519830cb845ebba053424741c2ecc\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.window:window:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\96d585798714e6a04e84623a0d543bf0\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\96d585798714e6a04e84623a0d543bf0\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1b5371dc0b94b2e295d9aa7771c66787\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1b5371dc0b94b2e295d9aa7771c66787\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.8.0-alpha04] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\0698555bed65af3c4f2d1f58795d2da1\transformed\core-1.8.0-alpha04\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0-alpha04] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\0698555bed65af3c4f2d1f58795d2da1\transformed\core-1.8.0-alpha04\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\0a527dfdd15e29e68e436d3349fa15bf\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\0a527dfdd15e29e68e436d3349fa15bf\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ed8d41144eb8176d89d0ae04f2e4c5ab\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ed8d41144eb8176d89d0ae04f2e4c5ab\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\86b1c74fc51aff9a5bc5f1758db0a36e\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\86b1c74fc51aff9a5bc5f1758db0a36e\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0-alpha04] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\0698555bed65af3c4f2d1f58795d2da1\transformed\core-1.8.0-alpha04\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:11:9-61
+activity#com.example.sharedpreferences.MainActivity
+ADDED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:12:9-20:20
+	android:exported
+		ADDED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml
+INJECTED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml
+MERGED from [androidx.preference:preference-ktx:1.2.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\f7b6f1afd48921fa9f19871c97dbc1f1\transformed\jetified-preference-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference-ktx:1.2.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\f7b6f1afd48921fa9f19871c97dbc1f1\transformed\jetified-preference-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\768a05113a64938999f54dad5c708420\transformed\preference-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\768a05113a64938999f54dad5c708420\transformed\preference-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\61bf056adb85aa0e3354ef8873fef2cb\transformed\jetified-fragment-ktx-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\61bf056adb85aa0e3354ef8873fef2cb\transformed\jetified-fragment-ktx-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.2] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ebda91551804225a0080173d972baa23\transformed\jetified-activity-ktx-1.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.2] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ebda91551804225a0080173d972baa23\transformed\jetified-activity-ktx-1.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0-alpha04] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\e89629629df66b3f55e61b006254d478\transformed\jetified-core-ktx-1.8.0-alpha04\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0-alpha04] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\e89629629df66b3f55e61b006254d478\transformed\jetified-core-ktx-1.8.0-alpha04\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\8b9ff462c26e67a51360d4ffd74765f4\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\8b9ff462c26e67a51360d4ffd74765f4\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\f58519830cb845ebba053424741c2ecc\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\f58519830cb845ebba053424741c2ecc\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\9b85ea61567d5de1325f38e267302986\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\9b85ea61567d5de1325f38e267302986\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\56750d60f6c64d2c2978f4650747535b\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\56750d60f6c64d2c2978f4650747535b\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\69f8672a8e01badb374e5a7562cd591a\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\69f8672a8e01badb374e5a7562cd591a\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\96d585798714e6a04e84623a0d543bf0\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\96d585798714e6a04e84623a0d543bf0\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\65ddc5086e3d31d79e465a360ef2d191\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\65ddc5086e3d31d79e465a360ef2d191\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\dc82065a3852d588222992413d21ea76\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\dc82065a3852d588222992413d21ea76\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ff52a70ae6d088e298bf906b1a907ceb\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ff52a70ae6d088e298bf906b1a907ceb\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ae2c4b857826b74c7e58d98950b5dcee\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ae2c4b857826b74c7e58d98950b5dcee\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\911a6988715a347f090d71623a2000c2\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\911a6988715a347f090d71623a2000c2\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\b67d769d2c78803b426b0e827db36722\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\b67d769d2c78803b426b0e827db36722\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\dfb250c2203df58c5a49990114ab31f8\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\dfb250c2203df58c5a49990114ab31f8\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\68e00617add7b01f32854a6bbcc11c28\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\68e00617add7b01f32854a6bbcc11c28\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1b5371dc0b94b2e295d9aa7771c66787\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1b5371dc0b94b2e295d9aa7771c66787\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\319a2be89989bc023adb73d5397e91ce\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\319a2be89989bc023adb73d5397e91ce\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1dd186db76f98a93fde2cd5ccf794a42\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1dd186db76f98a93fde2cd5ccf794a42\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\76f8c78758dc98d63c6b1b0814b1ec7f\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\76f8c78758dc98d63c6b1b0814b1ec7f\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ff71d38e5fd2435f3682770568440610\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ff71d38e5fd2435f3682770568440610\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\5f8e0b060a79342bf5ad7fd4f5d3128b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\5f8e0b060a79342bf5ad7fd4f5d3128b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ac1ce85454f1a4593739681276bc6ffb\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ac1ce85454f1a4593739681276bc6ffb\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\f5921a503d8784d002cace2b1cb4515d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\f5921a503d8784d002cace2b1cb4515d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\7b85509f0802d0178d844067e9929508\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\7b85509f0802d0178d844067e9929508\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\6c359c19691c7d471b0c55eefb84784b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\6c359c19691c7d471b0c55eefb84784b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\5043dce28c3266eea49b3ef5b1a286bf\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\5043dce28c3266eea49b3ef5b1a286bf\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\f693a7c0abee27520f034952a21d716d\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\f693a7c0abee27520f034952a21d716d\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0-alpha04] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\0698555bed65af3c4f2d1f58795d2da1\transformed\core-1.8.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0-alpha04] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\0698555bed65af3c4f2d1f58795d2da1\transformed\core-1.8.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\9a9254718605bcdab9e555655498d40e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\9a9254718605bcdab9e555655498d40e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\0d2644bcfea1555522f7a2bb8de931ea\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\0d2644bcfea1555522f7a2bb8de931ea\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\5ff02bbfa74f8d2f6165c52bc55baa35\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\5ff02bbfa74f8d2f6165c52bc55baa35\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\a5de479eaa13f294fba71160df4cb075\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\a5de479eaa13f294fba71160df4cb075\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\56769530a8f0a980e2876c8f9361471e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\56769530a8f0a980e2876c8f9361471e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\0a527dfdd15e29e68e436d3349fa15bf\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\0a527dfdd15e29e68e436d3349fa15bf\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ed8d41144eb8176d89d0ae04f2e4c5ab\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ed8d41144eb8176d89d0ae04f2e4c5ab\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\86b1c74fc51aff9a5bc5f1758db0a36e\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\86b1c74fc51aff9a5bc5f1758db0a36e\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\946ffec2668bca807869bde76eb06afe\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\946ffec2668bca807869bde76eb06afe\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1c7ec0be3328a12dbc8ba487f7d65f88\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1c7ec0be3328a12dbc8ba487f7d65f88\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\b31071d0b5664d1dee18b2053ed5db16\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\b31071d0b5664d1dee18b2053ed5db16\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\fdbbbff6c9419b3e1b6ac9f17a951e72\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\fdbbbff6c9419b3e1b6ac9f17a951e72\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\2fdaab3b2715e81004474f222ad1edc0\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\2fdaab3b2715e81004474f222ad1edc0\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\62bb3001090c6b8fb818cd7f4416b811\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\62bb3001090c6b8fb818cd7f4416b811\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\4c7f849b8ffac1fdb988488e7bd951a4\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\4c7f849b8ffac1fdb988488e7bd951a4\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\5afacc33fe2f617b870c4b5dabacacb6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\5afacc33fe2f617b870c4b5dabacacb6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\e3214ed6d9c50f8cd73d831f38b438ca\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\e3214ed6d9c50f8cd73d831f38b438ca\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\d73e23945711e8c5dd37359c3f6fe116\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\d73e23945711e8c5dd37359c3f6fe116\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml
+INJECTED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PeacemakerNanaKwesiO\AndroidStudioProjects\AndroidComponentsModels\sharedpreferences\src\main\AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\96d585798714e6a04e84623a0d543bf0\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\96d585798714e6a04e84623a0d543bf0\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\96d585798714e6a04e84623a0d543bf0\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\96d585798714e6a04e84623a0d543bf0\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\96d585798714e6a04e84623a0d543bf0\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\96d585798714e6a04e84623a0d543bf0\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1b5371dc0b94b2e295d9aa7771c66787\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ed8d41144eb8176d89d0ae04f2e4c5ab\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ed8d41144eb8176d89d0ae04f2e4c5ab\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\86b1c74fc51aff9a5bc5f1758db0a36e\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\86b1c74fc51aff9a5bc5f1758db0a36e\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1b5371dc0b94b2e295d9aa7771c66787\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1b5371dc0b94b2e295d9aa7771c66787\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1b5371dc0b94b2e295d9aa7771c66787\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1b5371dc0b94b2e295d9aa7771c66787\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1b5371dc0b94b2e295d9aa7771c66787\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1b5371dc0b94b2e295d9aa7771c66787\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\1b5371dc0b94b2e295d9aa7771c66787\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ed8d41144eb8176d89d0ae04f2e4c5ab\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ed8d41144eb8176d89d0ae04f2e4c5ab\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\PeacemakerNanaKwesiO\.gradle\caches\transforms-3\ed8d41144eb8176d89d0ae04f2e4c5ab\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
