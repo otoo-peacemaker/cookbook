@@ -1,0 +1,2 @@
+com/example/imageupload/BuildConfig.java
+ com.example.imageupload.BuildConfig

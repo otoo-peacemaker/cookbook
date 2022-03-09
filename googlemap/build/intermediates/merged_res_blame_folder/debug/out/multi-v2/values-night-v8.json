@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\PeacemakerNanaKwesiO\\AndroidStudioProjects\\AndroidComponentsModels\\googlemap\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\PeacemakerNanaKwesiO\\AndroidStudioProjects\\AndroidComponentsModels\\googlemap\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "595",
+                        "endLines": "23",
+                        "endColumns": "12",
+                        "endOffsets": "1204"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\PeacemakerNanaKwesiO\\.gradle\\caches\\transforms-3\\9b85ea61567d5de1325f38e267302986\\transformed\\appcompat-1.4.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "24,25,26,27,28,29,30,55",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1209,1279,1363,1447,1543,1645,1747,4495",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "1274,1358,1442,1538,1640,1742,1836,4579"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\PeacemakerNanaKwesiO\\.gradle\\caches\\transforms-3\\8b9ff462c26e67a51360d4ffd74765f4\\transformed\\material-1.5.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,56,57,58,59,60,61,62,63",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1841,1916,2027,2116,2217,2324,2431,2530,2633,2721,2845,2947,3049,3165,3267,3381,3509,3625,3747,3883,4003,4137,4257,4369,4584,4701,4825,4955,5077,5215,5349,5465",
+                        "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
+                        "endOffsets": "1911,2022,2111,2212,2319,2426,2525,2628,2716,2840,2942,3044,3160,3262,3376,3504,3620,3742,3878,3998,4132,4252,4364,4490,4696,4820,4950,5072,5210,5344,5460,5580"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\PeacemakerNanaKwesiO\\AndroidStudioProjects\\AndroidComponentsModels\\googlemap\\src\\main\\res\\values-night\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,10,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,4,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,477,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,-1,-1,82,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,-1,-1,555,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,146,199,249,332,383,431,481,539",
+                        "endColumns": "45,52,49,82,50,47,49,57,55",
+                        "endOffsets": "141,194,244,327,378,426,476,534,590"
+                    }
+                }
+            ]
+        }
+    ]
+}
