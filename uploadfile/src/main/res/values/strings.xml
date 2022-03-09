@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UploadFile</string>
+    <string name="upload_file">Upload File</string>
+    <string name="capure_file">Capture</string>
+    <string name="profile_image">profile_image</string>
+</resources>

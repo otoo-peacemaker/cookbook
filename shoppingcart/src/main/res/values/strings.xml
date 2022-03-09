@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShoppingCart</string>
+    <string name="itemname">Itemname</string>
+    <string name="size">Size</string>
+    <string name="rate">Rate</string>
+    <string name="total">Total</string>
+    <string name="item_name">Item name</string>
+    <string name="price">Price</string>
+    <string name="vendor_name">Vendor name</string>
+    <string name="_2">2</string>
+    <string name="keyboard">keyboard icon</string>
+</resources>

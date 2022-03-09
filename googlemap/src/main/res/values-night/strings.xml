@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rating">Rating: %.2f</string>
+    <string name="expandable">expandable</string>
+    <string name="start_ride">Start Ride</string>
+    <string name="arrow_up">arrow_up</string>
+    <string name="your_loaction">Your location</string>
+    <string name="starting_point">Starting point</string>
+    <string name="close">Close Bottom Sheet</string>
+    <string name="open">Show Bottom sheet</string>
+    <string name="google_map_api">AIzaSyDoS-pCCHYyYdddlJ2xRw-rkI36U1nhJrs</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="capure_file">capture</string>
+    <string name="upload_file">Upload</string>
+    <string name="save">save</string>
+</resources>
